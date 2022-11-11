@@ -59,7 +59,7 @@ kmmbridge {
     spm("../")
     cocoapods("git@github.com:Touchlab/Podspecs.git")
     githubReleaseVersions()
-    mavenPublishArtifacts()
+    githubReleaseArtifacts()
 }
 
-addGithubPackagesRepository()
+//addGithubPackagesRepository()
