@@ -6,6 +6,6 @@ pluginManagement {
         mavenCentral()
     }
 }
-rootProject.name = "KMMBridgeGitHubReleaseVersionTest"
+rootProject.name = "KmmBridgeGitHubReleaseVersionTest"
 include(":shared")
 
