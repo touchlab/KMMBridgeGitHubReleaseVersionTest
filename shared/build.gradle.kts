@@ -59,7 +59,8 @@ kmmbridge {
     spm("../")
     cocoapods("git@github.com:Touchlab/Podspecs.git")
     githubReleaseVersions()
-    githubReleaseArtifacts()
+    // Doesn't work, probably maven doesn't allow uploading non-maven artifacts
+    mavenPublishArtifacts()
 }
 
-//addGithubPackagesRepository()
+addGithubPackagesRepository()
