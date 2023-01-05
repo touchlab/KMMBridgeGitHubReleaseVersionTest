@@ -1,8 +1,8 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let remoteKotlinUrl = "https://maven.pkg.github.com/touchlab/KMMBridgeGitHubReleaseVersionTest/co/touchlab/kmmbridge/test/githubrelease/shared-kmmbridge/1.4.96/shared-kmmbridge-1.4.96.zip"
-let remoteKotlinChecksum = "be55f541425354a74147141b75e50b3a13401c72f73467111d7914c575baa79a"
+let remoteKotlinUrl = "https://maven.pkg.github.com/touchlab/KMMBridgeGitHubReleaseVersionTest/co/touchlab/kmmbridge/test/githubrelease/shared-kmmbridge/1.4.97/shared-kmmbridge-1.4.97.zip"
+let remoteKotlinChecksum = "9f3cdde5c1173ea8b8666b30aca956ff0860cc4c482e121d2b57ab434a3e8ea8"
 let packageName = "shared"
 
 let package = Package(
