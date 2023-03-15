@@ -1,7 +1,7 @@
 plugins {
-    kotlin("multiplatform") version "1.7.20"
-    kotlin("native.cocoapods") version "1.7.20"
-    id("com.android.library") version "7.2.2"
+    kotlin("multiplatform") version "1.8.10"
+    kotlin("native.cocoapods") version "1.8.10"
+    id("com.android.library") version "7.4.1"
     // version 999 ensures always the newest code is tested
     id("co.touchlab.faktory.kmmbridge") version "999"
     `maven-publish`
